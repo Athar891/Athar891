@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Md Athar Reza<br>👀 I’m interested in Web Development and App development.<br>🌱 I’m currently learning Ai Agents.<br>🤝 You can reach me through 'athar.reza1@outlook.com'<br>⚡ Fun fact: Computer science is also a science.
+👋 Hi, I’m Md Athar Reza<br>👀 I’m interested in Web Development and App development.<br>🌱 I’m currently learning Ai Agents.<br>🤝 You can reach me through 'heyatharofficial@gmail.com'<br>⚡ Fun fact: Computer science is also a science.
 
 
 ## 🌐 Socials:
